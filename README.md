@@ -1,24 +1,10 @@
-# hp
+<h1 align="center">个人主页</h1>
 
-## Project setup
-```
-npm install
-```
+## 项目环境
+| 模块/组件      | 版本      | 描述    |
+|:-----------|:--------|:------|
+| Vue        | 3.2.13  | 前端框架  |
+| vuesax-alpha | 0.2.0-beta.79 | UI组件库 |
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 致谢
+主页参考：[quenan的主页](https://github.com/QNquenan/homepage-for-vue3)
